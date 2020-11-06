@@ -17,6 +17,9 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "illuminate/support": "5.5.*"
+    },
     "config": {
         "sort-packages": true
     }

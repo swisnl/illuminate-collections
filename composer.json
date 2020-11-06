@@ -1,0 +1,23 @@
+{
+    "name": "swisnl/illuminate-collections",
+    "type": "metapackage",
+    "description": "Metapackage to import illuminate/collections, with fallback to illuminate/support for older PHP/Laravel versions.",
+    "keywords": [
+        "swisnl",
+        "illuminate",
+        "collections"
+    ],
+    "homepage": "https://github.com/swisnl/illuminate-collections",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jasper Zonneveld",
+            "email": "jasper@swis.nl",
+            "homepage": "https://www.swis.nl",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    }
+}

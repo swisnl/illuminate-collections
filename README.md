@@ -9,7 +9,7 @@ Import [Laravel's Collections](https://laravel.com/docs/collections) into non-La
 
 It just installs [illuminate/support](https://packagist.org/packages/illuminate/support) on PHP < 7.3 or Laravel < 8 and [illuminate/collections](https://packagist.org/packages/illuminate/collections) on PHP >= 7.3 or Laravel >= 8 and uses the same major versioning.
 
-**This package will get major version tags up to and including the next Laravel LTS, which will probably be Laravel 9 in October 2021!**
+**This package will get major version tags up to and including the next Laravel LTS, which will probably be Laravel 9 in January 2022!**
 
 ## Install
 

@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
+[![Buy us a tree][ico-treeware]][link-treeware]
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Made by SWIS][ico-swis]][link-swis]
 
@@ -41,17 +42,21 @@ If you discover any security related issues, please email security@swis.nl inste
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+This package is [Treeware](https://treeware.earth). If you use it in production, then we ask that you [**buy the world a tree**][link-treeware] to thank us for our work. By contributing to the Treeware forest you’ll be creating employment for local families and restoring wildlife habitats.
+
 ## SWIS :heart: Open Source
 
 [SWIS][link-swis] is a web agency from Leiden, the Netherlands. We love working with open source software. 
 
 [ico-version]: https://img.shields.io/packagist/v/swisnl/illuminate-collections.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-treeware]: https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/swisnl/illuminate-collections.svg?style=flat-square
 [ico-swis]: https://img.shields.io/badge/%F0%9F%9A%80-made%20by%20SWIS-%23D9021B.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/swisnl/illuminate-collections
 [link-downloads]: https://packagist.org/packages/swisnl/illuminate-collections
+[link-treeware]: https://plant.treeware.earth/swisnl/illuminate-collections
 [link-author]: https://github.com/JaZo
 [link-contributors]: ../../contributors
 [link-laravel-contributors]: https://github.com/illuminate/collections/graphs/contributors

@@ -52,7 +52,7 @@ This package is [Treeware](https://treeware.earth). If you use it in production,
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-treeware]: https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/swisnl/illuminate-collections.svg?style=flat-square
-[ico-swis]: https://img.shields.io/badge/%F0%9F%9A%80-made%20by%20SWIS-%23D9021B.svg?style=flat-square
+[ico-swis]: https://img.shields.io/badge/%F0%9F%9A%80-made%20by%20SWIS-%230737A9.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/swisnl/illuminate-collections
 [link-downloads]: https://packagist.org/packages/swisnl/illuminate-collections

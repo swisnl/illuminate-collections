@@ -6,11 +6,11 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Made by SWIS][ico-swis]][link-swis]
 
+## 🚨 Deprecated: The Laravel team has dropped support for Laravel < 8, making this package obsolete. Please directly use [illuminate/collections](https://packagist.org/packages/illuminate/collections) instead. 🚨
+
 Import [Laravel's Collections](https://laravel.com/docs/collections) into non-Laravel packages easily, without needing to require the entire `illuminate\support` package, while also supporting older PHP/Laravel versions. ([Why not pull `illuminate\support` in framework-agnostic packages](https://mattallan.org/posts/dont-use-illuminate-support/))
 
 It just installs [illuminate/support](https://packagist.org/packages/illuminate/support) on PHP < 7.3 or Laravel < 8 and [illuminate/collections](https://packagist.org/packages/illuminate/collections) on PHP >= 7.3 or Laravel >= 8 and uses the same major versioning.
-
-**This package will get major version tags up to and including the next Laravel LTS, which will probably be Laravel 9 in January 2022!**
 
 ## Install
 
